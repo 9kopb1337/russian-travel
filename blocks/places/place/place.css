@@ -2,10 +2,10 @@
     margin-bottom: 80px;
     display: grid;
     grid-template-columns: 460px 1fr;
-    gap: 48px 40px;  
-    grid-template-areas: 
+    gap: 48px 40px;
+    grid-template-areas:
         "place__title place__website"
-        "place__image place__paragraphs";  
+        "place__image place__paragraphs";
 }
 
 .place:last-of-type {
