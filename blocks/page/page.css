@@ -4,7 +4,10 @@
     padding: 28px 0 24px;
     min-width: 320px;
     -webkit-font-smoothing: antialiased;
+    max-width: 1280px;
+    margin: 0 auto;
 }
+
 @media screen and (max-width: 767px) {
     .page {
         padding-top: 16px;
